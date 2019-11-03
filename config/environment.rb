@@ -1,5 +1,5 @@
 require 'bundler'
-Bundler.require
+Bundler.require #this line loads gemfile into memory, install cmnd won't load
 
 module Concerns
 end
